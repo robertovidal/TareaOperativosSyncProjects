@@ -4,6 +4,9 @@
 #include <pthread.h>
 #include <semaphore.h>
 
+// Jose Pablo Fernández Cubillo
+// Roberto Vidal Patiño
+
 sem_t semTa;
 sem_t semSt;
 

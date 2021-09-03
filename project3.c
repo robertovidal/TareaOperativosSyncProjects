@@ -5,6 +5,9 @@
 #include <pthread.h>
 #include <time.h>
 
+// Jose Pablo Fernández Cubillo
+// Roberto Vidal Patiño
+
 sem_t empty;
 sem_t full;
 pthread_mutex_t mutex;

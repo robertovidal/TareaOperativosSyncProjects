@@ -4,6 +4,9 @@
 #include <pthread.h>
 #include <semaphore.h>
 
+// Jose Pablo Fernández Cubillo
+// Roberto Vidal Patiño
+
 pthread_mutex_t mutex;
 pthread_cond_t  condVar;
 
